@@ -2,7 +2,7 @@ name: Python application
 on:
   push:
   schedule:
-    - cron: '0 21 * * *'
+    - cron: '0 20 * * *'
 
 jobs:
   build:
@@ -10,10 +10,10 @@ jobs:
 
     steps:
       - name: 检查分支
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: 安装 Python 3.10
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: 3.10.4
 
@@ -28,8 +28,8 @@ jobs:
           python autoUrl.py
       - name: 暂存提交
         run: |
-          git config --global user.name 'hl128k'
-          git config --global user.email 'hl128k@qq.com'
+          git config --global user.name 'ynxiu'
+          git config --global user.email 'ynxiu@qq.com'
           export TZ='Asia/Shanghai'
           git add .
           git commit -m "update" -a
