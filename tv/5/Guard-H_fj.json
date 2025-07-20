@@ -83,13 +83,13 @@
   <meta name="route-pattern" content="/:user_id/:repository@*name(/*path)" data-turbo-transient>
   <meta name="route-controller" content="blob" data-turbo-transient>
   <meta name="route-action" content="raw" data-turbo-transient>
-  <meta name="fetch-nonce" content="v2:9d730089-3203-32d2-c58a-5e228639465e">
+  <meta name="fetch-nonce" content="v2:f8bcfa2a-5f0c-c3c3-0296-efcae800602e">
 
     
   <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
 
 
-  <meta name="request-id" content="E412:1DDD8E:499B90:5E4B56:687BFB65" data-turbo-transient="true" /><meta name="html-safe-nonce" content="9c1fb045ed3df89ef44b35aab96b2bc752085290f1a3cb682e749237e3b5359d" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkU0MTI6MURERDhFOjQ5OUI5MDo1RTRCNTY6Njg3QkZCNjUiLCJ2aXNpdG9yX2lkIjoiODE4NTk4NDY0MzE2MjE3NjM1NyIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="66d01341fd49fcff5cb273bd891b7c7d3fc9ba60fd19bb1b3e9d61f467362ead" data-turbo-transient="true" />
+  <meta name="request-id" content="E000:2E0252:D98A62:118BF6F:687D4D04" data-turbo-transient="true" /><meta name="html-safe-nonce" content="b30257abf048d1ec2b0ff37783de1c44866d7fbc9c9029a96330b6d9fdebcf8f" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkUwMDA6MkUwMjUyOkQ5OEE2MjoxMThCRjZGOjY4N0Q0RDA0IiwidmlzaXRvcl9pZCI6Ijk5MjU5NzUyNDAyNTc4OTcwMCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="f993ed548c2f60259c45b394c2058fc2d85475947d941852b9ff4964cf86b38e" data-turbo-transient="true" />
 
 
 
@@ -236,7 +236,7 @@
   partial-name="keyboard-shortcuts-dialog"
   data-ssr="false"
   data-attempted-ssr="false"
-  data-react-profiling="false"
+  data-react-profiling="true"
 >
   
   <script type="application/json" data-target="react-partial.embeddedData">{"props":{"docsUrl":"https://docs.github.com/get-started/accessibility/keyboard-shortcuts"}}</script>
@@ -292,10 +292,10 @@
           </a>
               <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-634152ff-c79f-4ae4-a8b9-ce6bdc3643ae" aria-labelledby="tooltip-a07e41e5-f069-4789-a233-4aaf632884fd" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-876cbc05-a33e-4e98-ba4a-3479d1750098" aria-labelledby="tooltip-7f51b9dc-5067-488c-80ec-23ec03343e82" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-a07e41e5-f069-4789-a233-4aaf632884fd" for="icon-button-634152ff-c79f-4ae4-a8b9-ce6bdc3643ae" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-7f51b9dc-5067-488c-80ec-23ec03343e82" for="icon-button-876cbc05-a33e-4e98-ba4a-3479d1750098" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_document-metadata_document-metadata_ts-ui_packages_promise-with-resolvers-polyfil-40d47c-2b0274d4149e.js" defer="defer"></script>
@@ -969,7 +969,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="owner:Guard-H" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="ZuL3rMafvoG1t7dYdckNc1UeESdZnctazvzx6UeeRhgXQ-nhKP5gsDVGAFvEgsSoZrAvdoqfUG2Bj_aOFFJSSQ" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="" data-current-org="" data-current-owner="" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
+<qbsearch-input class="search-input" data-scope="owner:Guard-H" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="sIRMxkAysfK4fmi4eptctkjFc-wbnAnN190oKHXBjCvA6uS834M9Swo6CPY70iOgswKsM8psHsFq26N_7pl5Gw" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="" data-current-org="" data-current-owner="" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -1033,7 +1033,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-abb68a4d-08a5-4468-b1cc-8d2a5c9a0301" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-2288036c-c3eb-4de3-ac51-457109452189" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -1271,7 +1271,7 @@
                   tabindex="-1"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-abb68a4d-08a5-4468-b1cc-8d2a5c9a0301" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-2288036c-c3eb-4de3-ac51-457109452189" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -1312,7 +1312,7 @@
   
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="FSYfFIzGeOLsn1yioGYtAH9OLfd3RsgwOKSfYD6bMLHBiRVyLE3B5MSYTZMcFZx75eKI4CJff2giVO-HYxljXg" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JHPzu6FqFGoqC1ukDFQfRUb3Z4970gDDrTLDbuHkIYNzLaIeJBjZEU3HAqS0pUxv6FI51Xa_HNAxrSAqMSqHsw" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -1350,7 +1350,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ShZcLxTZXh9epfzLHBGDM3T8lSs5q6t3rcgXDsXPutqOP3TbQkdnryOhmEExeAMpCw_g4c3ybwnPw5-w1LvTog" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="LKeNSLRp2ZZNyocB6xlQl4qhfnr8pBBxVDh2QkWGIQXdndIqXMRJSpXR_s5Mw09nDKk_3pGSiesRJZGKNueqzg" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -1368,7 +1368,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" value="zqp-rsMMvc5XVIshGHMe5904tKqujzSyYPzdz9zV7f948eE5OGj9liiWISSADyngTNE332jVfdWJCEL8HZ0Kvg" data-csrf="true" />
+              <input type="hidden" value="oEFmFEl9GtFGV8tgOGQWue8rBqAWfy87Toj8Tmz-8mSsOG1tvmf1r7pQGvvEGF7mhVFJsD-eTwjlQT63t5VmhA" data-csrf="true" />
             </auto-check>
           </div>
 
@@ -1423,7 +1423,7 @@
     <h4 data-view-component="true" class="color-fg-default mb-2">                    Sign in to GitHub
 </h4>
                         
-<!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/session" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sBZfnlPFYFNb_yYQRD7IKJUxC5NvpCXimTi-Mg1r4Bqx4dzU6yjYPjxHGhfkDBfeCgNwcx2Dp51S8hU_O-SSYw" />  <input type="hidden" name="add_account" id="add_account" autocomplete="off" class="form-control" />
+<!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/session" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lh2dAMhPsBlNzpSMW74DAfdz13qvKCM4vO8HbYKjbnrujvFCIX_WNv8c62Yxhl3lfQEKGUQwFTrAm7HpHe-uKQ" />  <input type="hidden" name="add_account" id="add_account" autocomplete="off" class="form-control" />
 
     <label for="login_field">
       Username or email address
@@ -1445,7 +1445,7 @@
 <input type="hidden" name="allow_signup" id="allow_signup" autocomplete="off" class="form-control" />
 <input type="hidden" name="client_id" id="client_id" autocomplete="off" class="form-control" />
 <input type="hidden" name="integration" id="integration" autocomplete="off" class="form-control" />
-<input type="text" name="required_field_93ac" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1752955749638" autocomplete="off" class="form-control" /><input type="hidden" name="timestamp_secret" value="48d175b1e9a58c75c54715092f0a5d3af16505fd924b8ef77adab5a064d45725" autocomplete="off" class="form-control" />
+<input type="text" name="required_field_b51a" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1753042180886" autocomplete="off" class="form-control" /><input type="hidden" name="timestamp_secret" value="acccea01f88b8639e992bc5ca2615b7c5d87f6fdf30aa0be923305454f9ecc0b" autocomplete="off" class="form-control" />
 
     <input type="submit" name="commit" value="Sign in" class="btn btn-primary btn-block js-sign-in-button" data-disable-with="Signing in…" data-signin-label="Sign in" data-sso-label="Sign in with your identity provider" development="false" disable-emu-sso="false" />
   </div>
@@ -1471,10 +1471,10 @@
 
                 <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-78a02e1e-14a7-48cd-a003-b055738b9df5" aria-labelledby="tooltip-e4caac2e-357b-4898-bfb8-62c7347e6b26" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-9792c995-9808-4afc-9dec-6876c759b748" aria-labelledby="tooltip-593b1527-b884-4842-927d-617bfcd28233" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-e4caac2e-357b-4898-bfb8-62c7347e6b26" for="icon-button-78a02e1e-14a7-48cd-a003-b055738b9df5" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-593b1527-b884-4842-927d-617bfcd28233" for="icon-button-9792c995-9808-4afc-9dec-6876c759b748" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.47f1598729334a521d2a.module.css" />
@@ -1511,10 +1511,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-ff3b731d-d483-47d8-8433-7d04944b06bf" aria-labelledby="tooltip-cc8f15ce-8e17-440f-b2a9-ebfd7cbefe57" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-55102add-67a7-4805-95c9-88124537fd54" aria-labelledby="tooltip-ebe946c3-e300-4373-b2c2-d5806ab0fb5a" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-cc8f15ce-8e17-440f-b2a9-ebfd7cbefe57" for="icon-button-ff3b731d-d483-47d8-8433-7d04944b06bf" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-ebe946c3-e300-4373-b2c2-d5806ab0fb5a" for="icon-button-55102add-67a7-4805-95c9-88124537fd54" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
